@@ -1,4 +1,4 @@
-# 🎓 College Student Performance Predictor
+#🎓 College Student Performance Predictor
 
 A **machine learning–powered Streamlit web application** that predicts a college student’s academic performance as **Low, Mid, or High** based on academic, behavioral, and demographic factors.
 
