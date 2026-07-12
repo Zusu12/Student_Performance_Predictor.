@@ -38,7 +38,6 @@ The goal is to assist educators and institutions in identifying students who may
 ---
 
 ## 📂 Project Structure
-
 ```text
 Student-Performance-Predictor/
 ├── app.py
